@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="JavonteIntro">Hello World! My name is Javonte Carter. I love learning new machine languages to code. Thank you for considering me as a candidate.</string>
+    <string name="buttonText">Button</string>
+    <string name="todo">TODO</string>
+    <string name="button_text">Say Hello</string>
+</resources>
